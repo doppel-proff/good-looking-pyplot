@@ -1,0 +1,20 @@
+fg = "#2e3440"
+fg2 = "#3b4252"
+fg3 = "#434c5e"
+fg4 = "#4c566a"
+
+bg  = "#ffffff"
+bg2 = "#d8dee9"
+bg3 = "#e5e9f0"
+bg4 = "#eceff4"
+
+blue = "#5e81ac"
+blue_2 = "#81a1c1"
+blue_3 = "#88c0d0"
+blue_4 = "#8fbcbb"
+
+red = "#bf616a"
+orange = "#d08770"
+yellow = "#ebcb8b"
+green = "#92ab7e"
+purple = "#b48ead"
