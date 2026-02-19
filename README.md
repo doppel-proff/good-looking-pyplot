@@ -1,3 +1,3 @@
 # An example for good looking pyplots
 
-!(fig.svg)
+![ex](fig.svg)
