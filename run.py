@@ -23,7 +23,7 @@ ax1.set_title(r"$\lambda = 10$", fontsize = 14)
 ax1.set_ylabel(r"$f(\lambda , x)$", fontsize = 12)
 ax1.set_xlabel("x", fontsize= 12)
 ax1=gu.pretty_ax(ax1, nc.fg2)
-
+ax1.set_ylim(-1,1)
 
 ax2 = axs[0][1]
 ax2.plot(V_x, f(V_x, 5), label=r"$f(\lambda, x)$", color= nc.orange)
